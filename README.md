@@ -1,6 +1,6 @@
 # Tushar Chhabra · Portfolio
 
-My personal portfolio website. I'm an **AI Automation Specialist** working with no-code and low-code tools.
+My personal portfolio website. I'm an **AI & Automation Specialist** who builds n8n automations, AI agents, chatbots, voice agents and websites with low-code and no-code tools, with a finance and audit background.
 
 **Live site:** https://tushar-chabra.github.io/portfolio/
 
